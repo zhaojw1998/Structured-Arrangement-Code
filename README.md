@@ -54,9 +54,9 @@ pip install -r requirements.txt
 
 ### Data and Checkpoints
 
-* Model checkpoints can be downloaded [via this link](https://drive.google.com/file/d/1ZyswS0p_t2Ij5vyaFkM5IbVgphf78oTB/view?usp=sharing).
+* Model checkpoints can be downloaded [via this link](https://drive.google.com/file/d/1mk24C2uKcjmQ-jZQ0CxiFQm0lm3czSwC/view?usp=sharing).
 
-* Processed dataset (LMD) for training the prior model can be downloaded [via this link](https://drive.google.com/file/d/14BHxnYDYSuGe0m3XXqIPL1-d4376GOBH/view?usp=sharing).
+* Processed dataset (LMD) for training the prior model can be downloaded [via this link](https://drive.google.com/file/d/1eugs_UzI5V70fpllAfcL2gTmSxxdZdl1/view?usp=sharing).
 
 * Processed dataset (Slakh2100) for training the autoencoder is accessbible [in this repo](https://github.com/zhaojw1998/Query-and-reArrange/tree/main/data/Slakh2100).
 
